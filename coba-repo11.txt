@@ -1,0 +1,4 @@
+Plan :
+      - membuat github untuk tempat project
+      - mengisi github dengan repo project yang sudah pernah dibuat
+      - aktif dalam forum diskusi dan project di github
