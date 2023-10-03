@@ -3,3 +3,4 @@ Plan :
       - aktif dalam forum diskusi dan project di github
       - mengisi project cyber security
       - commit project dari local repo
+      - bikin branch
